@@ -1,4 +1,4 @@
-// © 2026 Aboubacar Sidick Meite (ApollonIUGB77) — All Rights Reserved
+﻿// Â© 2026 Aboubacar Sidick Meite (ApollonASM8977) â€” All Rights Reserved
 import { useState } from 'react'
 import { Shield, Upload, ShieldCheck, History } from 'lucide-react'
 import UploadTab from './components/UploadTab'
@@ -49,7 +49,7 @@ export default function App() {
           </p>
           <div className="flex items-center justify-center gap-2 text-cyber-muted/40 text-xs font-mono">
             <span className="w-12 h-px bg-cyber-border" />
-            SHA-256 · SHA-512 · SHA-1 · MD5 · HMAC
+            SHA-256 Â· SHA-512 Â· SHA-1 Â· MD5 Â· HMAC
             <span className="w-12 h-px bg-cyber-border" />
           </div>
         </header>
@@ -88,11 +88,12 @@ export default function App() {
 
           {/* Footer */}
           <p className="text-center text-cyber-muted/30 text-xs mt-6 font-mono tracking-widest">
-            v2.0.0 · FastAPI + React · All operations local
+            v2.0.0 Â· FastAPI + React Â· All operations local
           </p>
-          <p className="text-right text-cyber-muted/20 text-xs mt-1 font-mono pr-1">© ASM</p>
+          <p className="text-right text-cyber-muted/20 text-xs mt-1 font-mono pr-1">Â© ASM</p>
         </main>
       </div>
     </div>
   )
 }
+
